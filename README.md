@@ -1,3 +1,4 @@
+![gif](name.gif)
 
 # 💫 About Me:
 🔭 I’m currently working on something cool<br>🌱 I’m currently learning React<br>💬 Ask me about anything related to JavaScript
